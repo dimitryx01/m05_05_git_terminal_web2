@@ -8,6 +8,7 @@ p {
 h1{
   font-family: Arial, sans-serif;
   font-size: 18px;
+  color: #5281c3;
 }
 .wrapper {
   width: 80%;
@@ -40,7 +41,7 @@ nav ul li a {
   text-decoration: none;
 }
 nav ul li:hover {
-  background: #316456;
+  background: #5281c3;
 }
 .contenido {
   padding-top: 80px;
